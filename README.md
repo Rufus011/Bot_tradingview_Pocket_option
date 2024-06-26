@@ -2,7 +2,7 @@
 
 In development!
 
-for a better understanding, check this [link]([https://github.com/theshadow76/PocketOptionAPI])
+for a better understanding, check this [link](https://github.com/theshadow76/PocketOptionAPI)
 
 # help me
 
