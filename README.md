@@ -2,11 +2,11 @@
 
 In development!
 
-for a better understanding, check this [link](https://github.com/theshadow76/PocketOptionAPI)!
+for a better understanding, check this     [link](https://github.com/theshadow76/PocketOptionAPI)!
 
 
 
-вступайте в комьюнити по разработке и улудшению библиотеки Pocket [link] (option!https://discord.com/invite/theshadow76#5310)!
+вступайте в комьюнити по разработке и улудшению библиотеки Pocket option     [link](https://discord.com/invite/theshadow76#5310)
 
 
 
